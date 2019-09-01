@@ -1,0 +1,13 @@
+﻿生成启动时间为 2019/3/24 17:41:46。
+     1>项目“C:\Users\ASUS\Desktop\动态库和静态库\mylib\mylib.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\新建文件夹\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\mylib.pdb" /Gd /TC /analyze- /errorReport:prompt mylib.c
+         mylib.c
+       Lib:
+         D:\新建文件夹\VS\VC\bin\Lib.exe /OUT:"C:\Users\ASUS\Desktop\动态库和静态库\Debug\mylib.lib" /NOLOGO Debug\mylib.obj
+         mylib.vcxproj -> C:\Users\ASUS\Desktop\动态库和静态库\Debug\mylib.lib
+     1>已完成生成项目“C:\Users\ASUS\Desktop\动态库和静态库\mylib\mylib.vcxproj”(Rebuild 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:02.71
